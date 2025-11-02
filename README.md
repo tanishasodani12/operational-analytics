@@ -72,9 +72,4 @@ This project strengthened my ability to:
 ✅ Completed & documented  
 🚀 Ready for resume, portfolio & interview discussions
 
----
-
-### 🔗 Connect With Me
-LinkedIn → *add your link here*  
-GitHub → **github.com/tanishasodani12**
 
