@@ -7,8 +7,7 @@ Operational Analytics & Metric Spike Investigation (SQL)
 
 Analyze engagement and performance trends in job review workflows.
 
-**Dataset Used:
-**
+**Dataset Used:**
 job_data, users, events, email_events
 
 **What I Did:**
